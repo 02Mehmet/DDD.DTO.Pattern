@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLTEQ.WEBAPI", "QLTEQ.WEBAPI\QLTEQ.WEBAPI.csproj", "{58BD2B2F-2EE7-4D7D-BC94-42DB4FA9AB7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLTEQ.DTOPattern", "QLTEQ.DTOPattern\QLTEQ.DTOPattern.csproj", "{E594243C-7C1F-419F-8B57-1589176E7EEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLTEQ.Domain", "QLTEQ.Domain\QLTEQ.Domain.csproj", "{5F5F5DA4-DDE0-4395-9F58-F21C240810E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLTEQ.Application", "Application\QLTEQ.Application.csproj", "{36E531D3-8681-4371-9F1B-BA2D0F6BCF76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QLTEQ.Infrastructure", "QLTEQ.Infrustructure\QLTEQ.Infrastructure.csproj", "{099D408D-C2E5-4157-8C2D-07AD3540DFB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BD2B2F-2EE7-4D7D-BC94-42DB4FA9AB7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BD2B2F-2EE7-4D7D-BC94-42DB4FA9AB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BD2B2F-2EE7-4D7D-BC94-42DB4FA9AB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BD2B2F-2EE7-4D7D-BC94-42DB4FA9AB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E594243C-7C1F-419F-8B57-1589176E7EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E594243C-7C1F-419F-8B57-1589176E7EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E594243C-7C1F-419F-8B57-1589176E7EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E594243C-7C1F-419F-8B57-1589176E7EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5F5DA4-DDE0-4395-9F58-F21C240810E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5F5DA4-DDE0-4395-9F58-F21C240810E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5F5DA4-DDE0-4395-9F58-F21C240810E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5F5DA4-DDE0-4395-9F58-F21C240810E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36E531D3-8681-4371-9F1B-BA2D0F6BCF76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E531D3-8681-4371-9F1B-BA2D0F6BCF76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E531D3-8681-4371-9F1B-BA2D0F6BCF76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E531D3-8681-4371-9F1B-BA2D0F6BCF76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099D408D-C2E5-4157-8C2D-07AD3540DFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099D408D-C2E5-4157-8C2D-07AD3540DFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099D408D-C2E5-4157-8C2D-07AD3540DFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099D408D-C2E5-4157-8C2D-07AD3540DFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF23265A-9B27-465F-BAAF-A15067251507}
+	EndGlobalSection
+EndGlobal
